@@ -1,6 +1,6 @@
 # Data Science Skills Decal Project 1
 
-**Team Members:** Ying Zhang, Beibei Liu, Qilu Lai
+**Team Members:** Ying(Jane) Zhang, Beibei Liu, Qilu Lai
 
 **Resumes and Descriptions**  
 
